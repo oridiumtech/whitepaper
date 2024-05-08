@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is Espoo Network ?](README.md)
+* [What is Oridium Network ?](README.md)
 * [Autonomus Smart Contract](autonomus-smart-contract.md)
 
 ## Utility
